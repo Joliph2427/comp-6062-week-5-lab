@@ -34,7 +34,7 @@ let add=a+b;
 
 // Example: let sub;
 // Subtract 'b' from 'a'.
-let Subtract=a-b;
+let sub=a-b;
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 let multiply=a*b;
